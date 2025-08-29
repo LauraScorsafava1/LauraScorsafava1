@@ -32,6 +32,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/laurascorsafava?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
-
----
-✨ “A prática leva à evolução. Cada linha de código é um passo a mais na jornada!”
