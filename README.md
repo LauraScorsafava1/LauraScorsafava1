@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!  
 
-<!--
-**LauraScorsafava1/LauraScorsafava1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Prazer, me chamo **Laura Scorsafava** ✨  
 
-Here are some ideas to get you started:
+- 🎓 Estudante do **Instituto PROA**  
+- 💻 Aprendendo **Lógica de Programação** com **VisualG**, **FACCAT** e **Manzano**  
+- 🚀 Buscando evoluir em **Front-End**, **Back-End** e **Banco de Dados**  
+- 📚 Interesses em **Python e Desenvolvimento Web**  
+- 🌱 Sempre em aprendizado contínuo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Minhas estatísticas no GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LauraScorsafava1&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraScorsafava1&layout=compact&theme=radical)  
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo  
+
+- **VisualG**  
+- **HTML / CSS**  
+- **JavaScript (iniciando)**  
+- **Git & GitHub**
+- **Python**  
+
+---
+
+## 🌐 Onde me encontrar  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/laurascorsafava?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+
+
+---
+✨ “A prática leva à evolução. Cada linha de código é um passo a mais na jornada!”
